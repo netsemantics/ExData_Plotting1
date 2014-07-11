@@ -1,4 +1,4 @@
-# Plot 4 - a collection of 4 plots in a single output
+# Plot 4 - to execute this plot please run the complete solution via plotx.R
 png(filename="plot4.png", width = 480, height=480)
 par(mfrow = c(2,2))
 with(power_dsx, {
